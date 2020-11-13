@@ -1,4 +1,4 @@
-# The VGLC
+# The VGLC from hector
 The Video Game Level Corpus
 
 
